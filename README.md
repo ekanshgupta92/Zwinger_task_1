@@ -1,2 +1,4 @@
 # Zwinger_task_1
-dashboard for Zwigger hostellers
+
+Dashboard for Zwigger hostellers.
+It contains- hostellers name, room number, pet type and their breed.
