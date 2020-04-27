@@ -11,6 +11,10 @@ h1 {
 		margin-left: 110px;
 	}
 }
+a.navbar-brand {
+	font-family: 'Pacifico', cursive;
+	font-size: 22px;
+}
 .sidebar {
 	background: #343a40;
 	padding-top: 30px;
